@@ -1,4 +1,4 @@
-# 
+# Nuevo AI leaf disease detection system extensiones. Con analítica predictiva y aprendizaje por transferencia — optimizado para el máximo rendimiento.
 
 
 
